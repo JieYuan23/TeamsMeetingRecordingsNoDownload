@@ -17,6 +17,7 @@ Preconditions
 La login utilizzata a parametro deve essere SharePoint Admin e Teams Admin
 
 PS. è attualmente in sviluppo la versione automatizzata che schedula l'esecuzione, si basa su Azure Functions.
+[Update] Repo soluzione automatizzata con Azure Functions: https://github.com/frbori/TeamsMeetingRecordingsNoDownloadAzureFunctions
 
 **PowerShell version**
 Nome script: DisableTeamsRecordingDownloadFromSPO.ps1
